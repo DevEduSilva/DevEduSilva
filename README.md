@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevEduSilva
+- 👋 Hi, I’m Eduardo Silva, as known @DevEduSilva
 - 👀 I’m interested in create anything that makes something easier
 - 🌱 I’m currently learning react and praticing javascript
 - 💞️ I’m looking to collaborate on best projects with my habilities  
