@@ -27,6 +27,16 @@ Uma ferramenta útil para formatar emails para o formato de organização para o
 - **Frameworks:** React (Atualmente estudando).
 - **Ferramentas:** Git & VS Code.
 
+## ⭐ Informações sobre minha conta GitHub
+
+<div>
+<a href="https://github.com/DevEduSilva">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevEduSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEduSilva&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+  
+![](https://komarev.com/ghpvc/?username=DevEduSilva&color=blueviolet&style=for-the-badge&label=CONTADOR)
+ 
 ## 📫 Entre em Contato
 
 - **Email:** silvapereira1608@gmail.com
@@ -37,4 +47,3 @@ Uma ferramenta útil para formatar emails para o formato de organização para o
 
 > 🌟 "A criatividade é a inteligência se divertindo." – Albert Einstein 🌟
 
-Vamos codar juntos e transformar ideias em realidade! 🚀
