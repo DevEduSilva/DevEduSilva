@@ -23,9 +23,9 @@ Uma ferramenta útil para formatar emails para o formato de organização para o
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** JavaScript, HTML & CSS.
-- **Frameworks:** React (Atualmente estudando).
-- **Ferramentas:** Git & VS Code.
+- **Linguagens:** ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+- **Frameworks:** ![React](https://img.shields.io/badge/-React-000?&logo=React) (Atualmente estudando).
+- **Ferramentas:** ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
 ## ⭐ Informações sobre minha conta GitHub
 
@@ -46,4 +46,5 @@ Uma ferramenta útil para formatar emails para o formato de organização para o
 ---
 
 > 🌟 "A criatividade é a inteligência se divertindo." – Albert Einstein 🌟
+
 
