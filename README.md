@@ -2,7 +2,7 @@
 
 👋 Olá, devs e entusiastas da tecnologia! Eu sou o **Eduardo Silva** e este é o meu espaço no GitHub onde a magia do código acontece.
 
-## 🚀 Sobre Mim
+## 🙋🏽 Sobre Mim
 
 Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Aqui você encontrará projetos que da web, todos com o toque especial de criatividade e funcionalidade.
 
@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Aqu
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** com formação adicional em Front-End.
 - 🌐 Explorador de novas tecnologias e tendências no desenvolvimento
 
-## 🌈 Meus Repositórios Principais
+## 🚀 Meus Repositórios Principais
 
 ### 📂 [Portfolio Pessoal](https://github.com/DevEduSilva/Portfolio-atualizado)
 Um portfólio moderno e interativo para mostrar minhas habilidades e projetos. Venha conferir!
